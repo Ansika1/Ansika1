@@ -1,3 +1,4 @@
+![logo](https://github.com/Ansika1/Ansika1/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ansika</h1>
 <h3 align="center">A dedicated and enthusiastic student currently pursuing a Master of Science (MSc) in Data Science, with a passion for leveraging data-driven insights to solve real-world problems. My journey into the world of data science began with a curiosity for understanding the power of data and its potential to transform businesses and industries.</h3>
 
