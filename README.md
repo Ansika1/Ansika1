@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansika</h1>
-<h3 align="center">a dedicated and enthusiastic student currently pursuing a Master of Science (MSc) in Data Science, with a passion for leveraging data-driven insights to solve real-world problems. My journey into the world of data science began with a curiosity for understanding the power of data and its potential to transform businesses and industries.</h3>
+<h3 align="center">A dedicated and enthusiastic student currently pursuing a Master of Science (MSc) in Data Science, with a passion for leveraging data-driven insights to solve real-world problems. My journey into the world of data science began with a curiosity for understanding the power of data and its potential to transform businesses and industries.</h3>
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
